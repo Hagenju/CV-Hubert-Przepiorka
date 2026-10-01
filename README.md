@@ -1,4 +1,4 @@
-<img width="1300" height="1705" alt="CV - Hubert Przepiórka" src="https://github.com/user-attachments/assets/d42d3df0-94a2-4189-8f75-168b567dd346" />
+<img width="1082" height="1550" alt="CV - Hubert Przepiórka" src="https://github.com/user-attachments/assets/cdb41491-f950-49dd-9771-148b13af5d5a" />
 
 [pdf z CV do pobrania nad (README.md)]
 
