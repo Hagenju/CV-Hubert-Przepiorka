@@ -1,7 +1,8 @@
-<img width="1165" height="1640" alt="CV - Hubert Przepiórka" src="https://github.com/user-attachments/assets/8e6bfc47-c489-47ad-ba4a-1733c8cdfb47" />
+<img width="1130" height="1605" alt="CV - Hubert Przepiórka" src="https://github.com/user-attachments/assets/15cbb6aa-77ca-49a7-b06e-acc2e2704859" />
+
 
 
 
 [pdf z CV do pobrania nad (README.md)]
 
-[21.09.2026 - data aktualizacji]
+[03.10.2026 - data aktualizacji]
